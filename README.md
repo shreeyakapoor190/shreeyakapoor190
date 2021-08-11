@@ -35,7 +35,7 @@ I am a software development enthusiast, passionate about coding. I try to develo
 
 [![Mail](https://img.shields.io/badge/-shreeyakapoor190@gmail.com-9cf?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDDMSFRKStKgtVCbTNnhwhbbSxbpXpqqPjqFPJsxMgKJprfWWrqbtFxZrhmxBDrDKvXvjv)](mailto:shreeyakapoor190@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/-@shreeyakapoor190-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_shreeya.kapoor190/)](https://www.instagram.com/_shreeya.kapoor190/)
+[![Instagram](https://img.shields.io/badge/-@shreeyakapoor190-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shreeyakapoor190/)](https://www.instagram.com/_shreeya.kapoor190/)
 
 
 #### ThankYou for visiting my profile <span style='font-size:25px;'>&#128420;</span>
