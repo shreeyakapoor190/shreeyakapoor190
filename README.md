@@ -33,9 +33,9 @@ I am a software development enthusiast, passionate about coding. I try to develo
 
 [![Linkedin](https://img.shields.io/badge/-Shreeya%20Kapoor-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shreeya-kapoor-0512/)](https://www.linkedin.com/in/shreeya-kapoor-0512/)
 
-[![Mail](https://img.shields.io/badge/-shreeyakapoor190@gmail.com-9cf?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDDMSFRKStKgtVCbTNnhwhbbSxbpXpqqPjqFPJsxMgKJprfWWrqbtFxZrhmxBDrDKvXvjv)](mailto:shreeyakapoor190@gmail.com)
+[![Mail](https://img.shields.io/badge/-shreeyakapoor190@gmail.com-9cf?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDDMSFRKStKgtVCbTNnhwhbbSxbpXpqqPjqFPJsxMgKJprfWWrqbtFxZrhmxBDrDKvXvjv)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=shreeyakapoor190@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/-@shreeyakapoor190-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shreeyakapoor190/)](https://www.instagram.com/_shreeya.kapoor190/)
+[![Instagram](https://img.shields.io/badge/-@shreeyakapoor190-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shreeyakapoor190/)](https://www.instagram.com/shreeyakapoor190/)
 
 
 #### ThankYou for visiting my profile <span style='font-size:25px;'>&#128420;</span>
