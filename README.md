@@ -24,7 +24,7 @@ I am a software development enthusiast, passionate about coding. I try to develo
 
 
 - **Frontend Development**
-<br>
+	<br>
 	<span style='font-size:15px;'>&#9989;</span> HTML, CSS and JavaScript
 	<br>
 	<span style='font-size:15px;'>&#9989;</span> Bootstrap
