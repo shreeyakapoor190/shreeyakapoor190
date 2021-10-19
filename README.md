@@ -36,7 +36,7 @@ I am a software development enthusiast, passionate about coding. I try to develo
 - Focus more on competitive programming -->
 
 <br>
-<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyakapoor190&layout=compact" alt="Top Langs" />
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyakapoor190&layout=compact" alt="Top Langs" />
 <br>
 
 ## <span style='font-size:30px;'>&#128640;</span> Connect with me at:
